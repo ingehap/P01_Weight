@@ -1,6 +1,6 @@
 # My slimming project
 
-[//]: # (Measurements done each Sunday morning for each week)
+Measurements done each Sunday morning for each week.
 
 | Year | Week | Mass (kg) |
 | -----| ---- | --------- |
