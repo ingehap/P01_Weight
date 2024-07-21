@@ -1,6 +1,6 @@
 # My slimming project
 
-Measurements done each Sunday morning for each week.
+Measurements will be made each Sunday morning for each week for the rest of 2024.
 
 | Year | Week | Mass (kg) |
 | -----| ---- | --------- |
