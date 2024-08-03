@@ -1,4 +1,4 @@
-# My slimming project
+# My Slimming Project
 
 Measurements will be made each Saturday or Sunday morning for each week for the rest of 2024.
 
