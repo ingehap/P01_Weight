@@ -10,3 +10,4 @@ Measurements will be made each Saturday or Sunday morning for each week for the 
 | 2024 | 32   | 155.3     |
 | 2024 | 33   | 156.8     |
 | 2024 | 34   | 157.1     |
+| 2024 | 35   | 156.4     |
